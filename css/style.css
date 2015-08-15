@@ -1,3 +1,26 @@
+/* You can't see this message */
 body {
     background-color: #FFE;
+}
+
+
+img {
+    border: 10px solid #99E9FF; /* 10px is the border size, followed by line, and colour, see w3schools.com */
+}
+
+    
+h4 {
+    color: #EAB500; /* can choose colors online */
+}
+
+a:link {
+    text-decoration: none; /* removes underline */
+}
+
+a:link {
+    color: black; /* link color */
+}
+
+a:hover {
+    color: #EAB500; /* mouse over link */
 }
